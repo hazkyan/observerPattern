@@ -34,4 +34,4 @@ Ensure that the implementation follows object-oriented design principles and pro
 ---
 
 ## Class Diagram
-![image](umlobserver.jpeg)
+![image](umlobserver.jpg)
